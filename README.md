@@ -20,3 +20,7 @@ In order to reach IOS Simulator Xcode needs to be installed.
 - When Simulator program is initialized > press the File segment on the top > New Simulator > Select the IOS device model.
 
 - While IOS simulator is ready, run the "expo start/npm start" command as stated above but this time, instead of scanning QR press the "i" key in the keyboard. The program will be initialized in the simulator
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
