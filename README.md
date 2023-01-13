@@ -1,7 +1,11 @@
 # Intelligent Music Recorder for Amateur Musicians
 
+#### Demo video:
+https://youtu.be/mKR628GtRgI
 
-How To Run it on your device: 
+
+
+###How To Run it on your device: 
 - After running "expo start" command, scan the QR code above with Expo Go (Android) or the Camera app (iOS). The Expo Go application is available on both AppStore and Google Play. Through Expo Go, Music Recorder Application can be used.
 
 ---
