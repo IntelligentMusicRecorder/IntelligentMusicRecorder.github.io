@@ -1,0 +1,3 @@
+#!/Users/furkankaragoz/Desktop/491/COMP491/Back/virtualenv/bin/python3
+from numba.pycc import main
+main()
